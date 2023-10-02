@@ -1,0 +1,15 @@
+/* Image style */
+
+#scrollUp {
+    background-image: url("../img/top1.png");
+    /*http://localhost:8080/plugindev/wp-content/plugins/back-to-top-of-page/img/top1.png*/
+    background-color: red;
+    bottom: 20px;
+    right: 20px;
+    width: 38px;
+    /* Width of image */
+    height: 38px;
+    /* Height of image */
+    text-indent: -9999999px;
+    border-radius: 50%;
+}
